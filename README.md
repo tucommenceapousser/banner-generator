@@ -9,7 +9,7 @@
 
 Vous pouvez également cloner et exécuter ce référentiel sur Replit en cliquant sur le lien ci-dessous :
 
-[![Run on Replit](https://github.com/tucommenceapousser/banner-generator)](https://github.com/tucommenceapousser/banner-generator)
+[![Run on Replit](https://github.com/tucommenceapousser/banner-generator)](https://replit.com/github.com/tucommenceapousser/banner-generator)
 
 
 ### [+] Installation
