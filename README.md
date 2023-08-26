@@ -1,9 +1,16 @@
 # Banner-Generator
 
-### [+] Created By <a href="https://github.com/KasRoudra">KasRoudra</a>
+### [+] Created By <a href="https://github.com/tucommenceapousser">trhacknon</a>
 
 ### [+] Decription :
 ***Banner generator is used to create a python file that prints colorful banner slowly.***
+
+## Cloner et exécuter sur Replit
+
+Vous pouvez également cloner et exécuter ce référentiel sur Replit en cliquant sur le lien ci-dessous :
+
+[![Run on Replit](https://github.com/tucommenceapousser/banner-generator)](https://github.com/tucommenceapousser/banner-generator)
+
 
 ### [+] Installation
 
