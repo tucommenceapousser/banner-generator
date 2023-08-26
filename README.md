@@ -7,9 +7,9 @@
 
 ### [+] Installation
 
-```apt install python2```
+```apt install python3```
 
-```git clone https://github.com/KasRoudra/banner-generator```
+```git clone https://github.com/tucommenceapousser/banner-generator```
 
 ```cd banner-generator```
 
@@ -17,12 +17,12 @@
 
 ```bash requirements.sh```
 
-```python2 generator.py```
+```python3 generator.py```
 
 
 ### Or, Use Single Command
 ```
-apt install python2 && git clone https://github.com/KasRoudra/banner-generator && cd banner-generator && bash requirements.sh && python2 generator.py
+apt install python3 && git clone https://github.com/tucommenceapousser/banner-generator && cd banner-generator && bash requirements.sh && python3 generator.py
 ```
 
 ### Features:
@@ -44,7 +44,7 @@ apt install python2 && git clone https://github.com/KasRoudra/banner-generator &
 
 <img src="https://github.com/KasRoudra/banner-generator/raw/main/preview.jpeg">
 
-### [+] The generated python file will be in python2!
+### [+] The generated python file will be in python3!
 
 ## [+] Note:
 
